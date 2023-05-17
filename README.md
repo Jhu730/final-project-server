@@ -1,6 +1,7 @@
 # server-starter-code
 
 This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
+GROUP MEMEBERS : JASON HU(jhu730) , DAVID CHEN (dchen628)
 
 **Prerequisites**
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
